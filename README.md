@@ -5,7 +5,7 @@ The installers for [Sonetta Studio](https://sonettastudio.com), a songwriting ap
 This repository holds no code. Each version is a GitHub Release with its installers attached:
 
 - `Sonetta-Studio-<version>-arm64.dmg` for Mac (Apple silicon)
-- `Sonetta-Studio-Setup-<version>.exe` for Windows
+- `Sonetta-Studio-<version>-x64.exe` for Windows (x64)
 
 Download the current version from <https://sonettastudio.com/download>, which always points at the latest release
 here, or pick a version under Releases. What changed in each version is at <https://sonettastudio.com/updates>.
